@@ -6,3 +6,7 @@ color: antiquewhite;
 font-size: 20px;
 /* text-decoration: dashed; */
 }
+h5,h6{
+    border: 5px solid darkblue;
+    padding: 5px;
+}
