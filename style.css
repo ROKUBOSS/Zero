@@ -10,3 +10,8 @@ h5,h6{
     border: 5px solid darkblue;
     padding: 5px;
 }
+table,th,td{
+    border: 3px solid red;
+    padding: 5px;
+    text-align: justify;
+}
