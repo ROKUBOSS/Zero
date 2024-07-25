@@ -14,4 +14,6 @@ table,th,td{
     border: 3px solid red;
     padding: 5px;
     text-align: justify;
+    width: 100%;
+    table-layout: fixed;
 }
